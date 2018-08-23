@@ -1,3 +1,10 @@
+function add(a,b){
+  return a + b
+} 
+
+
+
+
 var number = 10
 
 function add5() {
