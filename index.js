@@ -28,5 +28,3 @@ console.log(number)
 
 parseInt('2.2222', 10)
 
-console.log(2.2222)
-
