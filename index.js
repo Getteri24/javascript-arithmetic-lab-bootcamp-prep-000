@@ -12,3 +12,4 @@ divideBy3()
 
 console.log(10)
 
+
