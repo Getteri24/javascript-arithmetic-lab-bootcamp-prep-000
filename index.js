@@ -18,4 +18,6 @@ function inc(n) {
   return n++
 }
 
-function dec()
+function dec(n) {
+  return n--
+}
