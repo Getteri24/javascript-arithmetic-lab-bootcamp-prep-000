@@ -27,5 +27,4 @@ divideBy3()
 console.log(number)
 
 parseInt('2', 10)
-
-console.log(2)
+n
