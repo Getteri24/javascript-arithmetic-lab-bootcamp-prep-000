@@ -10,6 +10,6 @@ function divideBy3() {
 
 divideBy3()
 
-console.log(10)
+console.log(number)
 
 
